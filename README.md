@@ -1,29 +1,29 @@
-# Customer Segmentation Analysis
+# Customer Segmentation Project
 
 ## Overview
-This project performs customer segmentation using machine learning and visualizes the results through an interactive Power BI dashboard.
+This project focuses on segmenting customers based on their purchasing behavior and demographic characteristics. Using machine learning techniques and Power BI visualizations, the project identifies distinct customer groups to help businesses understand customer preferences and improve decision-making.
 
-## Tools & Technologies
+## Key Features
+- Customer segmentation using clustering techniques
+- Analysis of purchase patterns and spending behavior
+- Identification of customer preferences
+- Interactive Power BI dashboard
+- Data visualization and business insights
+
+## Tools Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
 - Power BI
+- Matplotlib
+- Seaborn
 
-## Dataset
-Mall Customers Dataset
-
-## Project Workflow
-1. Data Cleaning & Preprocessing
-2. Customer Analysis
-3. Customer Segmentation
-4. Data Visualization
-5. Power BI Dashboard Creation
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
+## Expected Outcome
+- Gain hands-on experience in customer analytics
+- Understand customer segmentation techniques
+- Generate targeted business insights
+- Build data visualization and dashboarding skills
 
 ## Files Included
 - Customer Segmentation-ml.ipynb
@@ -31,8 +31,9 @@ Mall Customers Dataset
 - Mall_Customers.csv
 - dashboard.png
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Author
-
 Geethu M
-
-Aspiring Data Analyst | Python | Power BI | Machine Learning
