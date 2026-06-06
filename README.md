@@ -36,4 +36,7 @@ This project focuses on segmenting customers based on their purchasing behavior 
 ![Dashboard](dashboard.png)
 
 ## Author
+
 Geethu M
+
+Aspiring Data Analyst | Python | Power BI | Machine Learning
